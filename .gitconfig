@@ -1,0 +1,20 @@
+[user]
+	name = Chris Branson
+	email = 138595+chrisbranson@users.noreply.github.com
+	signingkey = /Users/chrisbranson/.ssh/id_ed25519.pub
+[core]
+	excludesfile = /Users/chrisbranson/.gitignore_global
+[commit]
+	template = /Users/chrisbranson/.stCommitMsg
+	#gpgsign = true
+[color]
+	ui = true
+[init]
+	defaultBranch = main
+[alias]
+	co = checkout
+	br = branch
+	ci = commit
+	st = status
+[gpg]
+	format = ssh
