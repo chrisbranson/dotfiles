@@ -44,3 +44,7 @@
 
 # My default
 font-size = 16
+font-family = ""
+font-family = MesloGLDZ Nerd Font Mono
+window-height = 40
+window-width = 120
