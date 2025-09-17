@@ -12,3 +12,6 @@ export PSQL_HISTORY="$ZDOTDIR/psql/.psql_history"
 # Setup code editor to use in shell
 export EDITOR="/usr/local/bin/code"
 export VISUAL="/usr/local/bin/code"
+
+# Java Runtime
+export JAVA_HOME="/Applications/Android Studio.app/Contents/jbr/Contents/Home"
